@@ -62,13 +62,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 #The best way
-$ paste it into your browser https://jbd84.github.io/
-
+$ paste it into your browser https://neuralNetorkIA.github.io
 # Clone this project
-$ git clone https://github.com/JBD84/JBD84.github.io
+$ git clone https://github.com/JBD84/neuralNetorkIA.github.io
 
-# Access
-$ cd JBD84.github.io
 ```
 
 ## :memo: License
